@@ -199,8 +199,8 @@ const AddCandidateNavbar = () => {
                         <div className="mb-3">
     <label htmlFor="gender" className="form-label">Gender</label>
     <select className="form-select" id="gender" ref={genderRef} defaultValue="Male">
-        <option value="Male">male</option>
-        <option value="Female">female</option>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
     </select>
 </div>
 <div className="mb-3">

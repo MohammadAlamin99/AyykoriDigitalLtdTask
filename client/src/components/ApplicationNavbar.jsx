@@ -226,7 +226,7 @@ const ApplicationNavbar = () => {
                     <p>{item['fullName']}</p>
                   
                   <div className="range">
-                    <h6>{`${item['experience']} | Expected 25k`}</h6>
+                    <h6>{`${item['experience']} Year | Expected 25k`}</h6>
                     </div>
                   </div>
                 </div>
